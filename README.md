@@ -1,3 +1,3 @@
 # neural_pendulum
 
-Przewidywanie trajektorii wahadła podwónego
+Przewidywanie trajektorii wahadła podwójnego
